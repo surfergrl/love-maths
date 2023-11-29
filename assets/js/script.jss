@@ -13,10 +13,10 @@ document.addEventListener("DOMContentLoaded", function () {
   }
 });
 
-/** The main game loop called when the scriupt is first DOMContentLoaded
-* and after the user's answer has been processed
-* ghis is a docstring 
-*/ 
+/** The main game loop called when the script is first loaded
+ * and after the user's answer has been processed
+ * this is a docstring
+ */
 
 function runGame() {
   // Create two random nos 1-25
